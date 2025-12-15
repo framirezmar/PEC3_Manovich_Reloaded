@@ -32,5 +32,13 @@ Desde las “gafas de Manovich”, Starlink puede entenderse como un ejemplo ava
 
 
 ## Tesla FSD – Full Self Driving
+
+
+
+
+[FSD-Autopark-Desktop.webm](https://github.com/user-attachments/assets/f0789d12-7aab-49b4-8139-ab604527edc6)
+
+[FSD-Autopark-Desktop.webm](https://github.com/user-attachments/assets/b6650ba1-022a-47dd-9eee-8ba9e4981ae5)
+
 ## Conclusiones
 ## Licencias y referencias
