@@ -2,8 +2,9 @@
 
 ## Introducción
 
-«Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles».
-— Lev Manovich
+> «Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles».
+>  
+> — **Lev Manovich**
 
 Tal como plantea Lev Manovich en *El software toma el mando*, ya no interactuamos con medios aislados, sino con entornos donde imágenes, datos, interfaces, algoritmos y redes combinan todo de manera dinámica, dando lugar a nuevas formas culturales que no se podían imaginar en la era analógica.
 
