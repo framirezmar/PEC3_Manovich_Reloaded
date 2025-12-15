@@ -34,7 +34,13 @@ Desde las “gafas de Manovich”, Starlink puede entenderse como un ejemplo ava
 ## Tesla FSD – Full Self Driving
 
 
-https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto:best/FSD-Attentive-Desktop.mp4
+<video controls width="100%">
+  <source src="https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto:best/FSD-Attentive-Desktop.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de vídeo.
+</video>
+
+*Visualización del sistema Tesla FSD interpretando el entorno vial mediante visión artificial y redes neuronales.*
+
 
 
 ## Conclusiones
