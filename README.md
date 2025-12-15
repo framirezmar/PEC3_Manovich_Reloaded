@@ -34,14 +34,22 @@ Desde las “gafas de Manovich”, Starlink puede entenderse como un ejemplo ava
 ## Tesla FSD – Full Self Driving
 
 
-<video controls width="100%">
-  <source src="https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto:best/FSD-Attentive-Desktop.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de vídeo.
-</video>
+Tesla FSD (Full Self-Driving) es el sistema de conducción autónoma desarrollado por la empresa Tesla, basado en inteligencia artificial, visión por computador y aprendizaje automático. Aunque su nombre sugiere un sistema con autonomía total, en la actualidad se trata de un sistema avanzado de asistencia a la conducción que combina sensores, cámaras, redes neuronales y software para interpretar el entorno y tomar decisiones en tiempo real. A diferencia de los sistemas tradicionales de asistencia al conductor, Tesla FSD no se apoya en reglas rígidas preestablecidas, sino que el modelo de IA se ha entrenado con volumen ingente de datos como dice en su web:
 
-*Visualización del sistema Tesla FSD interpretando el entorno vial mediante visión artificial y redes neuronales.*
+> “Tesla utiliza miles de millones de kilometros de datos anónimos de conducción reales para entrenar la Conducción autónoma total (Supervisada)”.
+
+Desde la perspectiva de la hibridación propuesta por Lev Manovich, Tesla FSD representa un caso paradigmático en el que el software deja de limitarse a representar la realidad para actuar directamente sobre ella. El vehículo ya no es únicamente una máquina mecánica gobernada por un conductor, sino un sistema híbrido donde confluyen hardware físico, sensores, algoritmos de percepción, bases de datos y procesos de decisión automatizados. La conducción se convierte así en una práctica mediada por software, donde el entorno vial se traduce en datos computables.
+
+Uno de los aspectos más relevantes de Tesla FSD es su dependencia de la visión artificial. A través de múltiples cámaras distribuidas por el vehículo, el sistema “ve” el mundo lo analiza y lo reconstruye digitalmente mediante modelos tridimensionales, detección de objetos y predicción de trayectorias. Este proceso encaja con la noción de transcodificación cultural descrita por Manovich: elementos del mundo físico (calles, peatones, señales, otros vehículos) se transforman en datos, vectores y probabilidades que el software analiza y utiliza para actuar. La realidad ya no se percibirse de forma directa si no pasa a ser interpretada por algoritmos.
+
+Tesla FSD introduce una dimensión colectiva y evolutiva en la conducción. Cada vehículo actúa como un nodo que recopila información (trafico, estado carretera, vehículos alrededor, tiempo, etc.) y la envía a los servidores de Tesla, donde entre en el jugo la computación de los datos, los modelos de inteligencia artificial se entrenan y actualizan constantemente con cantidades ingentes de información en tiempo real. El software aprende, y este aprendizaje se redistribuyen posteriormente mediante actualizaciones remotas. De este modo, la conducción se convierte en un sistema vivo, en permanente evolución, definido por el flujo continuo de datos y software.
+
+> “La Conducción autónoma total (Supervisada) se entrena en lo que equivale a más de 100 años de experiencias anónimas de conducción en el mundo real de la flota de más de seis millones de vehículos. La flota experimenta en conjunto situaciones de conducción de por vida en 10 minutos”.
+
+Desde las “gafas de Manovich”, Tesla FSD puede entenderse como un ejemplo avanzado de hibridación entre movilidad, inteligencia artificial y cultura del software. El acto de conducir deja de ser exclusivamente humano para convertirse en una interacción compartida entre persona y algoritmo. El software no es solo el asistente, sino que interpreta, decide y actúa sobre el espacio físico, redefiniendo conceptos tradicionales como control, responsabilidad y autonomía. En este contexto, el automóvil se transforma en una interfaz computacional móvil, integrada plenamente en la cultura digital contemporánea.
 
 
 
 ## Conclusiones
+
 ## Licencias y referencias
