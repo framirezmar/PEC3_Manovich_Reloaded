@@ -16,8 +16,6 @@ Este trabajo propone analizar dos casos contemporáneos que ejemplifican esta ev
 
 ## Starlink (SpaceX)
 
-## Starlink (SpaceX)
-
 Starlink es un proyecto desarrollado por la empresa SpaceX cuyo objetivo es proporcionar acceso a Internet de alta velocidad a nivel global mediante una constelación de miles de satélites en órbita baja terrestre. Como describe en su web, *«conectividad donde menos lo espera»*. A diferencia de las infraestructuras convencionales de telecomunicaciones, basadas en cables submarinos, antenas terrestres y redes nacionales, Starlink propone un cambio radical del modelo de conectividad, donde el acceso a la red depende principalmente de software, algoritmos de gestión orbital y sistemas automatizados de comunicación.
 
 ![Constelación de satélites Starlink en órbita baja terrestre](https://github.com/user-attachments/assets/e24cb9a5-0c28-41b5-a8c3-f561a56792b8)
