@@ -79,4 +79,51 @@ Desde las “gafas de Manovich”, Tesla FSD puede entenderse como un ejemplo av
 
 ## Conclusiones
 
+
 ## Licencias y referencias
+
+
+### Licencia general
+
+Este trabajo se publica bajo una licencia **Creative Commons CC BY-NC 4.0**, que permite la reutilización y adaptación del contenido con fines no comerciales, siempre que se cite la autoría original.
+
+---
+
+### Licencias de las imágenes
+
+- **Starlink / SpaceX**  
+  Imágenes procedentes de material público y promocional de SpaceX utilizado con fines educativos, informativos y no comerciales.
+
+- **Constelación de satélites Starlink**  
+  Imagen de dominio divulgativo utilizada con fines académicos para ilustrar la infraestructura orbital del proyecto Starlink.
+
+- **Tesla FSD – conducción autónoma**  
+  Imágenes procedentes de material oficial de Tesla Inc., utilizadas con fines educativos, editoriales y no comerciales.
+
+- **Tesla FSD – visión artificial y percepción del entorno**  
+  Imagen procedente de recursos oficiales de Tesla, empleada exclusivamente con fines académicos y de análisis cultural del software.
+
+---
+
+## Referencias
+
+Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.
+
+SpaceX. (s. f.). *Starlink*. Recuperado de  
+https://www.starlink.com
+
+Tesla, Inc. (s. f.). *Full Self-Driving (Supervised)*. Recuperado de  
+https://www.tesla.com/fsd
+
+Tesla, Inc. (s. f.). *Autopilot and Full Self-Driving*. Recuperado de  
+https://www.tesla.com/autopilot
+
+Manovich, L. (2001). *El lenguaje de los nuevos medios*. Barcelona: Editorial Paidós.
+
+---
+
+## Nota sobre el uso de inteligencia artificial
+
+En la elaboración de este trabajo se ha utilizado **ChatGPT (OpenAI, 2025)** como apoyo puntual para la organización del contenido, revisión sintáctica y ayuda en la documentación, sin que haya sustituido la reflexión personal ni la redacción original del texto.  
+Asimismo, se ha utilizado inteligencia artificial generativa para la creación de algunas imágenes empleadas con fines ilustrativos y académicos, debidamente indicadas en sus respectivas licencias.
+
