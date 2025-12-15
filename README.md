@@ -18,13 +18,26 @@ Este trabajo propone analizar dos casos contemporáneos que ejemplifican esta ev
 
 Starlink es un proyecto desarrollado por la empresa SpaceX cuyo objetivo es proporcionar acceso a Internet de alta velocidad a nivel global mediante una constelación de miles de satélites en órbita baja terrestre. Como describe en su web, *«conectividad donde menos lo espera»*. A diferencia de las infraestructuras convencionales de telecomunicaciones, basadas en cables submarinos, antenas terrestres y redes nacionales, Starlink propone un cambio radical del modelo de conectividad, donde el acceso a la red depende principalmente de software, algoritmos de gestión orbital y sistemas automatizados de comunicación.
 
-![Constelación de satélites Starlink en órbita baja terrestre](https://github.com/user-attachments/assets/e24cb9a5-0c28-41b5-a8c3-f561a56792b8)
+<br>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e24cb9a5-0c28-41b5-a8c3-f561a56792b8"
+     alt="Constelación de satélites Starlink en órbita baja terrestre"
+     width="800" />
+</p>
+<br>
+
 
 Desde la perspectiva de la hibridación descrita por Lev Manovich, Starlink no puede entenderse únicamente como una infraestructura tecnológica, sino como un sistema híbrido donde convergen telecomunicaciones, computación en la nube, automatización algorítmica, geolocalización y control en tiempo real. El servicio que percibe el usuario —una conexión a Internet aparentemente “invisible”— es en realidad el resultado de una compleja coreografía de datos que circulan constantemente entre satélites, estaciones terrestres y terminales de usuario, gestionada casi por completo por software.
 
 Un elemento clave de esta hibridación es la automatización. Los satélites de Starlink no son objetos pasivos en el espacio, sino nodos activos con computación propia, capaces de ajustar su posición, evitar colisiones y optimizar rutas de transmisión de datos sin intervención humana directa. Este comportamiento encaja con la idea de Manovich de un software que ya no se limita a representar la realidad, sino que opera sobre ella, toma decisiones y modifica sistemas físicos en tiempo real.
 
-![SpaceX-Starlink](https://github.com/user-attachments/assets/8c2358b4-1e96-4cdc-a62f-de007eaab905)
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c2358b4-1e96-4cdc-a62f-de007eaab905"
+     alt="SpaceX-Starlink"
+     width="800" />
+</p>
+<br>
 
 Además, Starlink transforma el concepto cultural de Internet. Tradicionalmente, la red se ha asociado a cables, conexiones y sistemas visibles y localizados —centros de datos, proveedores nacionales—, mientras que Starlink introduce un modelo global, móvil y deslocalizado. El acceso a la red ya no depende del territorio político o de la infraestructura nacional, sino que pasa a estar orquestado por una arquitectura orbital gestionada algorítmicamente. En este sentido, el espacio exterior se convierte en un nuevo territorio computacional, integrado plenamente en la cultura digital contemporánea.
 
@@ -37,10 +50,24 @@ Desde las “gafas de Manovich”, Starlink puede entenderse como un ejemplo ava
 Tesla FSD (Full Self-Driving) es el sistema de conducción autónoma desarrollado por la empresa Tesla, basado en inteligencia artificial, visión por computador y aprendizaje automático. Aunque su nombre sugiere un sistema con autonomía total, en la actualidad se trata de un sistema avanzado de asistencia a la conducción que combina sensores, cámaras, redes neuronales y software para interpretar el entorno y tomar decisiones en tiempo real. A diferencia de los sistemas tradicionales de asistencia al conductor, Tesla FSD no se apoya en reglas rígidas preestablecidas, sino que el modelo de IA se ha entrenado con volumen ingente de datos como dice en su web:
 
 > “Tesla utiliza miles de millones de kilometros de datos anónimos de conducción reales para entrenar la Conducción autónoma total (Supervisada)”.
-
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/95faf2bb-4582-4d86-b38f-3c391734c7bd"
+     alt="Tesla FSD – visualización de conducción autónoma"
+     width="800" />
+</p>
+<br>
 Desde la perspectiva de la hibridación propuesta por Lev Manovich, Tesla FSD representa un caso paradigmático en el que el software deja de limitarse a representar la realidad para actuar directamente sobre ella. El vehículo ya no es únicamente una máquina mecánica gobernada por un conductor, sino un sistema híbrido donde confluyen hardware físico, sensores, algoritmos de percepción, bases de datos y procesos de decisión automatizados. La conducción se convierte así en una práctica mediada por software, donde el entorno vial se traduce en datos computables.
-
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4d904bfe-d7fc-4155-b472-640b3d15411c"
+     alt="Tesla FSD – percepción del entorno mediante visión artificial"
+     width="800" />
+</p>
+<br>
 Uno de los aspectos más relevantes de Tesla FSD es su dependencia de la visión artificial. A través de múltiples cámaras distribuidas por el vehículo, el sistema “ve” el mundo lo analiza y lo reconstruye digitalmente mediante modelos tridimensionales, detección de objetos y predicción de trayectorias. Este proceso encaja con la noción de transcodificación cultural descrita por Manovich: elementos del mundo físico (calles, peatones, señales, otros vehículos) se transforman en datos, vectores y probabilidades que el software analiza y utiliza para actuar. La realidad ya no se percibirse de forma directa si no pasa a ser interpretada por algoritmos.
+
+
 
 Tesla FSD introduce una dimensión colectiva y evolutiva en la conducción. Cada vehículo actúa como un nodo que recopila información (trafico, estado carretera, vehículos alrededor, tiempo, etc.) y la envía a los servidores de Tesla, donde entre en el jugo la computación de los datos, los modelos de inteligencia artificial se entrenan y actualizan constantemente con cantidades ingentes de información en tiempo real. El software aprende, y este aprendizaje se redistribuyen posteriormente mediante actualizaciones remotas. De este modo, la conducción se convierte en un sistema vivo, en permanente evolución, definido por el flujo continuo de datos y software.
 
