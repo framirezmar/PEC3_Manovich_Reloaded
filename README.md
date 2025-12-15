@@ -1,4 +1,5 @@
-# Las gafas de Manovich
+## Las gafas de Manovich
+
 ---
 ## Introducción
 
