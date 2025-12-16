@@ -82,19 +82,20 @@ Desde las “gafas de Manovich”, Tesla FSD puede entenderse como un ejemplo av
 ## Conclusiones
 
 
+A través del análisis de Starlink y Tesla FSD, este trabajo ha tratado de actualizar la hibridación propuesta por Lev Manovich, mostrando cómo el software ha dejado de ser un simple instrumento para convertirse en un activo que organiza y gobierna la realidad física. Los dos proyectos analizados son una evidencia que la cultura digital actual ya no se limita a la pantalla, sino que se expande hacia el espacio, el movimiento y la infraestructura planetaria.
 
+Starlink es un ejemplo una hibridación a escala global, donde el software gestiona la conectividad del planeta mediante una arquitectura planetaria automatizada. Tesla FSD, por su parte, representa una hibridación a escala cotidiana, transforma el acto cotidiano y banal de conducir en una práctica mediada por inteligencia artificial y datos computables. En ambos sistemas, el software actúa directamente sobre el mundo físico.
 
+Desde esta perspectiva, Starlink y Tesla FSD podrían formar parte de una actualización contemporánea de *El software toma el mando*. Son ejemplos claros de cómo el software ha pasado de organizar medios digitales a estructurar el espacio, la movilidad y la vida cotidiana, confirmando que, hoy más que nunca, el software no solo media la cultura, sino que la gobierna.
 
 
 
 ---
 ## Licencias y referencias
 
-
 ### Licencia general
 
 Este trabajo se publica bajo una licencia **Creative Commons CC BY-NC 4.0**, que permite la reutilización y adaptación del contenido con fines no comerciales, siempre que se cite la autoría original.
-
 
 
 ### Licencias de las imágenes
@@ -112,21 +113,20 @@ Este trabajo se publica bajo una licencia **Creative Commons CC BY-NC 4.0**, que
   Imagen procedente de recursos oficiales de Tesla, empleada exclusivamente con fines académicos y de análisis cultural del software.
 
 
-
 ## Referencias
 
-Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.
+- **Manovich, L. (2013).** *El software toma el mando*. Barcelona: Editorial UOC.
 
-SpaceX. (s. f.). *Starlink*. Recuperado de  
-https://www.starlink.com
+- **Manovich, L. (2001).** *El lenguaje de los nuevos medios*. Barcelona: Editorial Paidós.
 
-Tesla, Inc. (s. f.). *Full Self-Driving (Supervised)*. Recuperado de  
-https://www.tesla.com/fsd
+- **SpaceX. (s. f.).** *Starlink*. Recuperado de  
+  https://www.starlink.com
 
-Tesla, Inc. (s. f.). *Autopilot and Full Self-Driving*. Recuperado de  
-https://www.tesla.com/autopilot
+- **Tesla, Inc. (s. f.).** *Full Self-Driving (Supervised)*. Recuperado de  
+  https://www.tesla.com/fsd
 
-Manovich, L. (2001). *El lenguaje de los nuevos medios*. Barcelona: Editorial Paidós.
+- **Tesla, Inc. (s. f.).** *Autopilot and Full Self-Driving*. Recuperado de  
+  https://www.tesla.com/autopilot
 
 ---
 
